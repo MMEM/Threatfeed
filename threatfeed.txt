@@ -656,7 +656,6 @@ beige-dorolisa-18.tiiny.site
 11475ef.wcomhost.com
 prdocfonciechemkrscte.es
 autson.com
-*.ru
 goodpussfood.com
 infor-maticat4950kfhgf-severau.vercel.app
 c2a-irc.nl
@@ -699,7 +698,7 @@ detectivesanjeev.com
 timefood.ae
 mr-pets.ae
 lambda.qsensei.com
-*.lexxe.com
+www.lexxe.com
 lexxe.com
 ztowada.patipati.info
 gulfmedicaltourism.com
@@ -708,7 +707,8 @@ login.hill-cc.cc
 neobiz.com.br
 synergie-support.s3.eu-north-1.amazonaws.com
 tolvoes.com
-yisamax.com
+yismax.com
+www.yisamax.com
 www.faunsav.fr
 pmtslpbnkremadv.vercel.app
 www.asapsle.site
