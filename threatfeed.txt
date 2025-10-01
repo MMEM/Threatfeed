@@ -456,7 +456,7 @@ jeiffoizuvessa.vercel.app
 mysmartplans.iqjssnhkbzx.es
 instantfwding.com
 tyroo.com
-vercel.app
+*vercel.app
 www.altibox.dk
 address.navigations.world
 dull-trade.surge.sh
