@@ -2727,3 +2727,4 @@ goctrl-tc9n4pks.crgroup.sbs
 cfn.shareepolnts.help
 purple-dune-09b4d471e.3.azurestaticapps.ne
 *.jfbcarpentrycorp.com
+framer.app
