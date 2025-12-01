@@ -2729,3 +2729,4 @@ purple-dune-09b4d471e.3.azurestaticapps.ne
 *.jfbcarpentrycorp.com
 framer.app
 ondemandtrackings.com
+f9akgggjada0bhcg.z03.azurefd.net
