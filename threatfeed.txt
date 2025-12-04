@@ -2749,3 +2749,5 @@ assets-oce.mkt.dynamics.com
 platformverifydata-inc2025-operationdeck.pages.dev
 mexril-biz-stalon-1n12.pages.dev
 employeeperformance.wufoo.com
+gdx.io
+dhl.dhlsite.store
