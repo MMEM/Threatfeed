@@ -455,7 +455,7 @@ jeiffoizuvessa.vercel.app
 mysmartplans.iqjssnhkbzx.es
 instantfwding.com
 tyroo.com
-*vercel.app
+*.vercel.app
 www.altibox.dk
 address.navigations.world
 dull-trade.surge.sh
@@ -2759,3 +2759,5 @@ eversoft.media
 assessmentportal.wufoo.com
 pdfsparkware.com
 bousfihalaw.com
+kiyaslama.net
+sanchezamador.com.mx
