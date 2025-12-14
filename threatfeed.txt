@@ -2762,3 +2762,5 @@ bousfihalaw.com
 kiyaslama.net
 sanchezamador.com.mx
 *.builtinjob.com
+waabisaabi.com
+*.starnetngn.com
