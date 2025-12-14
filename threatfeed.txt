@@ -2764,3 +2764,4 @@ sanchezamador.com.mx
 *.builtinjob.com
 waabisaabi.com
 *.starnetngn.com
+medsalin.com
