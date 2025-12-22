@@ -2774,3 +2774,10 @@ cantec.com.sg
 maildev.unicorntechint.com
 mem-ins.sbs
 17.can5arc0phag.net
+mediafire.com
+*.mediafire.com
+cooperscouriers.com.au
+*.cooperscouriers.com.au
+mm4xy2o9.9elmharbor.ru
+116.90.59.30
+saw2.defore5tm0unt.ru
