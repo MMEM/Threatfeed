@@ -2798,3 +2798,5 @@ lunesive.z1.web.core.windows.net
 chaasive.z1.web.core.windows.net
 ads-auth.workers.dev
 feknzox.com
+linklink121.workers.dev
+taxiexpressparis.com
