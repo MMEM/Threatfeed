@@ -2800,3 +2800,5 @@ ads-auth.workers.dev
 feknzox.com
 linklink121.workers.dev
 taxiexpressparis.com
+mckwik.com
+alifrz.handler-s.casa
