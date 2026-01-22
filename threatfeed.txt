@@ -2856,3 +2856,5 @@ mmrealproperty.com.au
 14t63y10.mmrealproperty.com.au
 67n3.b-lightanner.com.au
 test.ikoyiholmes.org
+*.purelifetemp.su
+littlejalisco.com
