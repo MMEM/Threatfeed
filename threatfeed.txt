@@ -2866,3 +2866,5 @@ metric.soulisto.biz.id
 cgi-app-us.com
 lingshenyao.xyz
 1074321.calderstewartz.co.nz
+*.jamieoliver.com
+jamieoliver.com
