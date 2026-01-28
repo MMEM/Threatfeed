@@ -2872,3 +2872,5 @@ platinumtoursgh.com
 99d04a7a-345a-487c-8ea3-a9a626aa773e-00-3qpe7rminty.com
 adb-pro.design
 flotuschits.com
+*.transmitsms.com
+*.transmitmgmt.com
