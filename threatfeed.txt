@@ -2892,3 +2892,9 @@ street19inc.com
 tgfcdxswedrftghugfdes3456tygfr56ty.online
 tracking.eu.nylas.com
 pub-2e5131497a7b485f93fa57001237a611.r2.dev
+self-dns.it.com
+cdncheck.it.com
+45.77.31.210
+safe-dns.it.com
+95.179.213.0
+temp.sh
