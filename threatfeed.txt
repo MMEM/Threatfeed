@@ -2956,3 +2956,5 @@ delahallkitchens.co.za
 help-rfn5r4.biubiu.ge
 smilesutra.com
 *.inddis.be
+api.telegram.org
+script.google.com
