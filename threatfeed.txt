@@ -2960,3 +2960,4 @@ api.telegram.org
 script.google.com
 reqmonitoring.id
 xendramusic.com
+peaty986.bizroma.it.com
