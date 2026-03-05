@@ -2957,7 +2957,6 @@ help-rfn5r4.biubiu.ge
 smilesutra.com
 *.inddis.be
 api.telegram.org
-script.google.com
 reqmonitoring.id
 xendramusic.com
 peaty986.bizroma.it.com
