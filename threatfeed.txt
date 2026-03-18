@@ -3047,3 +3047,4 @@ come.ac
 u60981600.ct.sendgrid.net
 portalauthen365.z13.web.core.windows.net
 adobe-b6d.tuwilika-fcsnam-com-s-account.workers.dev
+net.anydesk.com
