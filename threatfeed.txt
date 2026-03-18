@@ -3044,3 +3044,5 @@ nitrophilous.com
 s1n3w0sb2ra8103es1fa.s3.us-east-1.amazonaws.com
 appalach.blob.core.windows.net
 come.ac
+u60981600.ct.sendgrid.net
+portalauthen365.z13.web.core.windows.net
