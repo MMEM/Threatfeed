@@ -3111,3 +3111,4 @@ routine.rg3aerial.com
 api-zic2n2o6d.qatach.com
 anydesk.my.site.com
 anydesk.my.salesforce.com
+corpinternal.co
