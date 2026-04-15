@@ -3112,3 +3112,4 @@ anydesk.my.site.com
 anydesk.my.salesforce.com
 corpinternal.co
 eiwjj21kjv-23f9b227bd.vercel.app
+login.schoolmedia.id
