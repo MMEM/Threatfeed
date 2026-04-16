@@ -3113,3 +3113,4 @@ anydesk.my.salesforce.com
 corpinternal.co
 eiwjj21kjv-23f9b227bd.vercel.app
 login.schoolmedia.id
+api-ojo2g0kxx.vvidara.com
