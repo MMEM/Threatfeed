@@ -3126,3 +3126,4 @@ mb4.tofiles.cfd
 gamemaster-convert-logs-z7iesoi6pn51.s3.dualstack.us-east-1.amazonaws.com
 log-in-myservice-online.com
 fyntra.vu
+gigas.us2.list-manage.com
