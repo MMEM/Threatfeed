@@ -39,8 +39,6 @@ synkopia.com
 emailmarketing.locaweb.com.br
 kete-ta-rnz.vercel.app
 parcel-tracking-tool.com
-r2.dev
-*.r2.dev
 www.gobangnow.com
 ipfs.io
 websuperlogs.netlify.app
@@ -568,7 +566,6 @@ boxbe.com
 app.esbwoodflooring.com
 clt1726809.benchurl.com
 sso.demarco.com.br
-*.r2.dev
 evdeultrasoneko.com
 msjoupemajdkjduehsohfmahkfhrirnsohdk.monitoringcontrol.com.dskshipprng.com
 9grqmqpw.r.us-east-1.awstrack.me
@@ -3154,3 +3151,4 @@ turnanewleaf.net
 redesigned-spoon-mocha.vercel.app
 sourcereport.github.io
 rob-um2z25hqdz6t.s3.dualstack.us-east-1.amazonaws.com
+148433568.hs-sites-eu1.com
