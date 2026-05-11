@@ -3155,3 +3155,5 @@ rob-um2z25hqdz6t.s3.dualstack.us-east-1.amazonaws.com
 148433568.hs-sites-eu1.com
 helpanzcentre.com
 fedax.org
+confirmations-pdf.s3.eu-north-1.amazonaws.com
+olerrelo.myportfolio.com
