@@ -3234,7 +3234,7 @@ office.mailspringline.com
 287j.s3.us-east-2.amazonaws.com
 serviceverifcaptcho.com
 jkdoors.com.au
-grammarly.com
+*grammarly.com
 www.grammarly.com
 gamma.app
 remove.bg
